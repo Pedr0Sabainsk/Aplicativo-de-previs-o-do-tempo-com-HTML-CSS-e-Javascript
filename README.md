@@ -1,25 +1,6 @@
 🌤️ Aplicativo de Previsão do Tempo
 Um aplicativo de previsão do tempo limpo e responsivo, construído com HTML, CSS e JavaScript.
 
-📋 Índice
-Visão Geral
-
-Funcionalidades
-
-Demonstração
-
-Tecnologias Utilizadas
-
-Instalação
-
-Como Usar
-
-Configuração da API
-
-Estrutura do Projeto
-
-Agradecimentos
-
 🎯 Visão Geral
 Este é um aplicativo web front-end que busca e exibe dados meteorológicos atuais e previsões para uma cidade informada. O projeto foi construído seguindo o tutorial do [Nome do(a) Instrutor(a)] no YouTube.
 
