@@ -32,9 +32,9 @@ Exibição da Previsão: (Se implementada no vídeo) Mostra a previsão do tempo
 
 Design Responsivo: Se adapta a diferentes tamanhos de tela (mobile, tablet, desktop).
 
-
-LINK DO TUTORIAL: https://www.youtube.com/watch?v=xuar1JNnV-w&t=1333s
-
 Funcionalidade de Busca: Permite que os usuários busquem informações meteorológicas pelo nome da cidade.
 
 Ícones Dinâmicos: Ícones do tempo que mudam com base nas condições atuais (ex.: sol, chuva, nublado).
+
+
+LINK DO TUTORIAL: https://www.youtube.com/watch?v=xuar1JNnV-w&t=1333s
